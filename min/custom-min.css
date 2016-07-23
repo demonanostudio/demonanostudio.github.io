@@ -12,6 +12,18 @@
 	max-height:864px;
     background-attachment: fixed;
 	position:relative;}
+.social{
+	display: inline-block;
+	color: #636363;
+	border: 1px solid #636363;
+	border-radius: 50%;
+	text-align: center;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	line-height: 28px;
+	transition: all 1s;
+}
 #index-banner2{
 	background-image: url("../img/parallax.png");
 	min-height:532px;
