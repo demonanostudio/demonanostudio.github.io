@@ -2,7 +2,7 @@
 
 if(isset($_POST['email'])) {
 
-    $email_to = "#";
+    $email_to = "nano.studioo@gmail.com";
  
     $email_subject = "Website Contact";
 
